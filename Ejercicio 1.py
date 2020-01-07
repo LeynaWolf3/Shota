@@ -1,0 +1,7 @@
+print("Esribe tu nombre")
+entrada1=input()
+print("Dame tu edad")
+entrada2=input()
+print("Escribe de dónde eres")
+entrada3=input()
+print("¡Hola! Me llamo "+entrada1+", soy de "+entrada3+" y tengo "+entrada2+" años.")
